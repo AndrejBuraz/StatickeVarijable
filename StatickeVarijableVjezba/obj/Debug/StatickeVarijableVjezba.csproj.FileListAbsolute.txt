@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\StatickeVarijableVjezba\bin\Debug\StatickeVarijableVjezba.exe.config
+C:\Users\ucenik\Documents\StatickeVarijableVjezba\bin\Debug\StatickeVarijableVjezba.exe
+C:\Users\ucenik\Documents\StatickeVarijableVjezba\bin\Debug\StatickeVarijableVjezba.pdb
+C:\Users\ucenik\Documents\StatickeVarijableVjezba\obj\Debug\StatickeVarijableVjezba.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\StatickeVarijableVjezba\obj\Debug\StatickeVarijableVjezba.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\StatickeVarijableVjezba\obj\Debug\StatickeVarijableVjezba.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\StatickeVarijableVjezba\obj\Debug\StatickeVarijableVjezba.exe
+C:\Users\ucenik\Documents\StatickeVarijableVjezba\obj\Debug\StatickeVarijableVjezba.pdb
